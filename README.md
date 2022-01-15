@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://raw.githubusercontent.com/srushti1006/srushti1006/main/resources/banner.gif"></h2>
+<h2 align="center"><img src="https://github.com/srushti1006/srushti1006/blob/master/resources/banner.gif"></h2>
 
 <h2>About me</h2>
 
