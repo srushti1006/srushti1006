@@ -26,18 +26,23 @@ I am Srushti Chiddarwar. Coding is something I'm incredibly passionate about. I'
 <h2>🛠Tech Stack</h2>
 
 Languages  
-![C](https://img.shields.io/badge/c-%23404d59.svg?style=for-the-badge&logo=c&%2B%2B&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-%23404d59.svg?style=for-the-badge&logo=python&%2B%2B&logoColor=white)&nbsp;
+<a href="https://www.w3schools.com/c/">![C](https://img.shields.io/badge/c-%23404d59.svg?style=for-the-badge&logo=c&%2B%2B&logoColor=white)&nbsp;
+<a href="https://www.w3schools.com/cpp/">![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+<a href="https://www.java.com/en/">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+<a href="https://www.python.org/">![Python](https://img.shields.io/badge/python-%23404d59.svg?style=for-the-badge&logo=python&%2B%2B&logoColor=white)&nbsp;
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![Xml](https://img.shields.io/badge/xml-%23404d59.svg?style=for-the-badge&logo=xml&%2B%2B&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23ED8B00.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+<a href="https://www.w3schools.com/css/">![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+<a href="https://www.w3schools.com/html/">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+<a href="https://www.javascript.com/">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+<a href="https://www.w3schools.com/xml/xml_whatis.asp">![Xml](https://img.shields.io/badge/xml-%23404d59.svg?style=for-the-badge&logo=xml&%2B%2B&logoColor=white)&nbsp;
+<a href="https://getbootstrap.com/">![Bootstrap](https://img.shields.io/badge/bootstrap-%23ED8B00.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
+<a href="https://jupyter.org/"> ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)</a>
+<a href="https://numpy.org/"> ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)</a>
+<a href="https://pandas.pydata.org/"> ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)</a>
 
-
+<a href="https://www.gnu.org/software/bash/"> ![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logo=gnubash&logoColor=white)</a>
+<a href="https://git-scm.com/"> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)</a>
+<a href="https://www.linux.org/"> ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)</a>
 
 
