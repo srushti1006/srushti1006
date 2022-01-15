@@ -1,16 +1,21 @@
-# github-profile-summary-cards-example
+<h2 align="center"><img src="https://raw.githubusercontent.com/srushti1006/srushti1006/main/resources/banner.gif"></h2>
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+<h2>About me</h2>
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+I am Srushti Chiddarwar. Coding is something I'm incredibly passionate about. I'm highly interested in learning new technologies and developing projects.
 
-```To create your profile README you need to name the repo as your username```
+✨I'm a programmer that lives to develop and create things.
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
+✨I enjoy learning new things on a daily basis. It could be an algorithm, software or a technology.
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+✨I'm a creative person. I enjoy designing posters.
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+✨I enjoy connecting with individuals and learning about their journeys because it allows me to broaden my horizons and gain new ideas on a variety of topics.
+
+✨I love to make memes. I have a meme page. You can check it out <a href="https://instagram.com/chitra_hasya?utm_medium=copy_link">here</a>
+
+<h3>Summary</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srushti1006&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srushti1006&theme=vue)
