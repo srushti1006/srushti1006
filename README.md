@@ -16,6 +16,10 @@ I am Srushti Chiddarwar. Coding is something I'm incredibly passionate about. I'
 
 <h3>Summary</h3>
 
+[![](https://raw.githubusercontent.com/srushti1006/srushti1006/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/srushti1006/srushti1006/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/srushti1006/srushti1006/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/srushti1006/srushti1006/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/srushti1006/srushti1006/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srushti1006&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srushti1006&theme=vue)
+
