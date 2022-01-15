@@ -34,6 +34,9 @@ Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![Xml](https://img.shields.io/badge/xml-%23404d59.svg?style=for-the-badge&logo=xml&%2B%2B&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23ED8B00.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+
 
 
 
