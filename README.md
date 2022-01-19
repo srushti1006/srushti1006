@@ -14,15 +14,6 @@ I am Srushti Chiddarwar. Coding is something I'm incredibly passionate about. I'
 
 ✨I love to make memes. I have a meme page. You can check it out <a href="https://instagram.com/chitra_hasya?utm_medium=copy_link">here</a>
 
-<h3>Summary</h3>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srushti1006&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srushti1006&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srushti1006&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srushti1006&theme=monokai)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srushti1006&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
-
 <h2>🛠Tech Stack</h2>
 
 <a href="https://www.programiz.com/c-programming">![C language](https://img.shields.io/badge/-c%20language-A8B9CC?style=for-the-badge&logo=c&logoColor=white)</a>
@@ -71,3 +62,14 @@ I am Srushti Chiddarwar. Coding is something I'm incredibly passionate about. I'
 <a href="https://numpy.org/"> ![NumPy](https://img.shields.io/badge/-numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)</a>
 <a href="https://pandas.pydata.org/"> ![Pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)</a>
 <a href="https://scikit-learn.org/stable/"> ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)</a>
+
+<h3>Summary</h3>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srushti1006&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srushti1006&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srushti1006&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srushti1006&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srushti1006&theme=monokai)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srushti1006&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
+
