@@ -1,6 +1,6 @@
 <h2 align="center"><img src="https://github.com/srushti1006/srushti1006/blob/master/resources/banner.gif"></h2>
 
-<h2>About me</h2>
+<h2>👩🏾‍💻 About me</h2>
 
 I am Srushti Chiddarwar. Coding is something I'm incredibly passionate about. I'm highly interested in learning new technologies and developing projects.
 
@@ -64,7 +64,7 @@ I am Srushti Chiddarwar. Coding is something I'm incredibly passionate about. I'
 <a href="https://scikit-learn.org/stable/"> ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)</a>
 <a href="https://www.blogger.com/about/?bpli=1"> ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a>
 
-<h3>Summary</h3>
+<h3>📈 Summary</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srushti1006&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srushti1006&theme=monokai)
@@ -73,6 +73,8 @@ I am Srushti Chiddarwar. Coding is something I'm incredibly passionate about. I'
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srushti1006&theme=monokai)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srushti1006&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
+
+<h2>📨 Connect with me</h2>
 
 <a href="mailto:srushti.chiddarwar@cumminscollege.in">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/srushtic/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
