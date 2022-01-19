@@ -46,3 +46,5 @@ Languages
 <a href="https://spring.io/">![Spring](https://img.shields.io/badge/-spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)</a>&nbsp;
 <a href="https://spring.io/projects/spring-boot">![Spring Boot](https://img.shields.io/badge/-spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)</a>&nbsp;
 <a href="https://hibernate.org/">![Hibernate](https://img.shields.io/badge/-hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)</a>&nbsp;
+
+<a href="https://www.postman.com/">![Postman](https://img.shields.io/badge/-postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)</a>&nbsp;
