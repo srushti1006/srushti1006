@@ -62,6 +62,7 @@ I am Srushti Chiddarwar. Coding is something I'm incredibly passionate about. I'
 <a href="https://numpy.org/"> ![NumPy](https://img.shields.io/badge/-numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)</a>
 <a href="https://pandas.pydata.org/"> ![Pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)</a>
 <a href="https://scikit-learn.org/stable/"> ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)</a>
+<a href="https://www.blogger.com/about/?bpli=1"> ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a>
 
 <h3>Summary</h3>
 
