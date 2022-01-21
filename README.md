@@ -67,7 +67,7 @@ I am Srushti Chiddarwar. Coding is something I'm incredibly passionate about. I'
 
 <h3>📈 Summary</h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srushti1006&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srushti1006&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srushti1006&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srushti1006&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srushti1006&theme=monokai)
