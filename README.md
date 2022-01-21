@@ -77,7 +77,7 @@ I am Srushti Chiddarwar. Coding is something I'm incredibly passionate about. I'
 
 [![Srushti's GitHub stats](https://github-readme-stats.vercel.app/api?username=srushti1006&count_private=true&theme=dark&hide=stars&include+all+commits=true)](https://github.com/srushti1006/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srushti1006&layout=compact)](https://github.com/srushti1006/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srushti1006&layout=compact&count_private=true)](https://github.com/srushti1006/github-readme-stats)
 
 <h2>📨 Connect with me</h2>
 
