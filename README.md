@@ -68,10 +68,10 @@ I am Srushti Chiddarwar. Coding is something I'm incredibly passionate about. I'
 <h3>📈 Summary</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srushti1006&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srushti1006&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srushti1006&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srushti1006&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srushti1006&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srushti1006&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srushti1006&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srushti1006&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srushti1006&theme=github_dark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srushti1006&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
 
