@@ -73,7 +73,7 @@ I am Srushti Chiddarwar. Coding is something I'm incredibly passionate about. I'
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srushti1006&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srushti1006&theme=github_dark)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=srushti1006&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=srushti1006&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Graph](https://activity-graph.herokuapp.com/graph?username=srushti1006&theme=synthwave-84)
 
